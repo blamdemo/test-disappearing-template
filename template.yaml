@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: react-ssr-template
-  title: React SSR Template
+  name: throwaway
+  title: Throwaway Template
   description: Create a website powered with Next.js
   tags:
     - recommended
